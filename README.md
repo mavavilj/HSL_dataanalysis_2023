@@ -1,7 +1,7 @@
 # HSL data-analysis 2023
 My entry for HSL "Data Engineer" position.
 
-Jupyter, Python, and data inferring with limited knowledge.
+Jupyter, Python 3.6.13, and data inferring with limited knowledge.
 
 Used libraries:
 
